@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+build/
+out/
+*.ipr
+*.iml
+/src/main/resources/application.properties
